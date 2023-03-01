@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Neetish , SW Engineer
 
-- 🔭 I’m currently working on ... golang
+- 🔭 I’m currently working on ... golang, k8s, ci/cd
 - 🌱 I’m currently learning ... Advanced System Design
 - 👯 I’m looking to collaborate on ... golang & k8s
 - 🤔 I’m looking for help with ... Systems Architecture
